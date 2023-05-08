@@ -1,4 +1,5 @@
 import React from "react";
+import ReactDOM from "react-dom";
 
 const NewsItem = (props) => {
   let { title, description, imageUrl, newsUrl, author, publishedAt, source } =
