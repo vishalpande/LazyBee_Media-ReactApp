@@ -57,5 +57,4 @@ const NewsItem = (props) => {
     </div>
   );
 };
-
 export default NewsItem;
