@@ -75,6 +75,7 @@ export default function App() {
                 key={"Sports"}
               />
             }
+            
           ></Route>
           <Route
             path="/Science"
